@@ -6,6 +6,7 @@
 // Siga os comentários para implementar cada parte do desafio.
 
 int main() {
+    int codigo;
     // Definição das variáveis para armazenar as propriedades das cidades
     // Você pode utilizar o código do primeiro desafio
 
@@ -16,8 +17,8 @@ int main() {
     // utilize o código do primeiro desafio
 
     // Exemplo:
-    // printf("Digite o código da cidade: ");
-    // scanf("%s", codigo);
+    printf("Digite o código da cidade: ");
+    scanf("%s", codigo);
     // 
     // (Repita para cada propriedade)
 
